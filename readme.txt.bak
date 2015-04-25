@@ -11,3 +11,4 @@ Git has a mutable index called stage.
 
 Git has been modified in windows.
 
+ready to merge testbranch and delete branch.
